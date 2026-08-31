@@ -1,13 +1,10 @@
-/******************************************************************************
-// Name:Jaziel Ramirez
+//Name:Jaziel Ramirez
 // Date: september 2, 2026
 // Class: 1470.04
 // Semester: Fall 2026
 // CSCI 1470 Instructor: Dr. Reyes
-//
-// This program will convert celsius into farenheit
-
-*******************************************************************************/
+//This program will convert celsius into farenheit
+//*******************************************************************************//
 #include <iostream>
 
 int main()
@@ -17,7 +14,7 @@ int main()
     
     //get input from user
     
-    std::cout<<"insert celsius to convert into farenheit ";
+    std::cout<<"insert celsius tempature to convert into farenheit ";
     std::cin>>celsius;
     
     //get coversion
@@ -26,6 +23,6 @@ int main()
     
     //display result
     
-std::cout<<"The farenheit is "<<farenheit<<std::endl;
+std::cout<<"The farenheit tempature is "<<farenheit<<std::endl;
     return 0;
 }
