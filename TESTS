@@ -3,9 +3,9 @@ Case   Input          Expected Output Status              Actual  Output Status
  2      43                  Valid                              inValid                   missing endl
  3      -12                 invalid                            invalid                    missing endl
  4      13                   invalid                            invalid                      missing endl and ;
- 5       20                   invalid                           invalid                      std; at beggining was needed 
+ 5       20                   invalid                           invalid                     needed to put std; to the lines
  6        12             valid                               invalid                       messed up the formula
  7      -45                valid                              invalid                     realized conversion was incorrect
- 8       12                 valid                               invalid                  found out about devimal in formula
- 9        12                  valid                             valid
- 10        -12              valid                              valid
+ 8       12                 valid                               invalid                 needed to put decimal in the formula
+ 9        12                  valid                             valid                       worked
+ 10        -12              valid                              valid                          worked
