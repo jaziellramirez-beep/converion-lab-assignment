@@ -8,4 +8,8 @@ Case   Input          Expected Output Status              Actual  Output Status
  7      -45                 valid                              invalid                   formula was still incorrect
  8      12                  valid                              invalid                   needed to put decimal in the formula
  9      12                  valid                              valid                     worked
- 10     -12                 valid                              valid                     worked
+10     -12                  valid                              valid                     worked
+11     -45                  valid                              valid                     worked
+12      29b                 valid                              valid                     worked
+13      24.2                valid                              valid                     worked
+14      -90.34apple         valid                              valid                     worked
