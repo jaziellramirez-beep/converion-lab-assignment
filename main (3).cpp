@@ -1,5 +1,5 @@
 //Name:Jaziel Ramirez
-// Date: september 2, 2026
+// Date: september 1, 2026
 // Class: 1470.04
 // Semester: Fall 2026
 // CSCI 1470 Instructor: Dr. Reyes
