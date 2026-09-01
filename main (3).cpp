@@ -14,7 +14,7 @@ int main()
     
     //get input from user
     
-    std::cout<<"insert celsius tempature to convert into farenheit ";
+    std::cout<<"insert celsius temperature to convert into farenheit ";
     std::cin>>celsius;
     
     //get coversion
