@@ -12,16 +12,11 @@ int main()
     double farenheit;
     double celsius;
     
-    //get input from user
     
     std::cout<<"insert celsius temperature to convert into farenheit ";
     std::cin>>celsius;
     
-    //get coversion
-    
     farenheit=9.0/5*celsius+32;
-    
-    //display result
     
 std::cout<<"The farenheit tempature is "<<farenheit<<std::endl;
     return 0;
